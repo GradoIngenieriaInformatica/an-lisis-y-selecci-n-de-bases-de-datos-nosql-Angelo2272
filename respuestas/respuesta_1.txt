@@ -1,1 +1,3 @@
 TIPO | Justificación corta
+
+Base de Datos de Grafos | Su estructura de nodos y aristas es la única capaz de manejar y recorrer eficientemente relaciones complejas, bidireccionales y grados de separación.

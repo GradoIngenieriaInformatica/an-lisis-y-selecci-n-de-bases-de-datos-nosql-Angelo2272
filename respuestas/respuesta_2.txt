@@ -1,1 +1,3 @@
 TIPO | Justificación corta
+
+Base de Datos Clave-Valor | Ofrece la menor latencia y mayor velocidad de acceso para lecturas simples basadas en un identificador, lo cual es el requisito fundamental de una caché.
